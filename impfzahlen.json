@@ -4,6 +4,10 @@
       "id": "Baden-Württemberg",
       "historical": [
         {
+          "date": "2020-12-30",
+          "value": 12649
+        },
+        {
           "date": "2020-12-29",
           "value": 8242
         },
@@ -24,6 +28,10 @@
     {
       "id": "Bayern",
       "historical": [
+        {
+          "date": "2020-12-30",
+          "value": 28206
+        },
         {
           "date": "2020-12-29",
           "value": 12935
@@ -46,6 +54,10 @@
       "id": "Brandenburg",
       "historical": [
         {
+          "date": "2020-12-30",
+          "value": 3036
+        },
+        {
           "date": "2020-12-29",
           "value": 1553
         },
@@ -66,6 +78,10 @@
     {
       "id": "Berlin",
       "historical": [
+        {
+          "date": "2020-12-30",
+          "value": 9084
+        },
         {
           "date": "2020-12-29",
           "value": 6296
@@ -88,6 +104,10 @@
       "id": "Bremen",
       "historical": [
         {
+          "date": "2020-12-30",
+          "value": 1691
+        },
+        {
           "date": "2020-12-29",
           "value": 1059
         },
@@ -108,6 +128,10 @@
     {
       "id": "Hamburg",
       "historical": [
+        {
+          "date": "2020-12-30",
+          "value": 2040
+        },
         {
           "date": "2020-12-29",
           "value": 1499
@@ -130,6 +154,10 @@
       "id": "Hessen",
       "historical": [
         {
+          "date": "2020-12-30",
+          "value": 15674
+        },
+        {
           "date": "2020-12-29",
           "value": 9448
         },
@@ -150,6 +178,10 @@
     {
       "id": "Mecklenburg-Vorpommern",
       "historical": [
+        {
+          "date": "2020-12-30",
+          "value": 11101
+        },
         {
           "date": "2020-12-29",
           "value": 7338
@@ -172,6 +204,10 @@
       "id": "Niedersachsen",
       "historical": [
         {
+          "date": "2020-12-30",
+          "value": 2705
+        },
+        {
           "date": "2020-12-29",
           "value": 1527
         },
@@ -193,8 +229,12 @@
       "id": "Nordrhein-Westfalen",
       "historical": [
         {
+          "date": "2020-12-30",
+          "value": 19930
+        },
+        {
           "date": "2020-12-29",
-          "value": 11389
+          "value": 11385
         },
         {
           "date": "2020-12-28",
@@ -213,6 +253,10 @@
     {
       "id": "Rheinland-Pfalz",
       "historical": [
+        {
+          "date": "2020-12-30",
+          "value": 4247
+        },
         {
           "date": "2020-12-29",
           "value": 2284
@@ -235,6 +279,10 @@
       "id": "Saarland",
       "historical": [
         {
+          "date": "2020-12-30",
+          "value": 2119
+        },
+        {
           "date": "2020-12-29",
           "value": 1518
         },
@@ -255,6 +303,10 @@
     {
       "id": "Sachsen-Anhalt",
       "historical": [
+        {
+          "date": "2020-12-30",
+          "value": 10100
+        },
         {
           "date": "2020-12-29",
           "value": 7287
@@ -277,6 +329,10 @@
       "id": "Sachsen",
       "historical": [
         {
+          "date": "2020-12-30",
+          "value": 2653
+        },
+        {
           "date": "2020-12-29",
           "value": 1487
         },
@@ -298,6 +354,10 @@
       "id": "Schleswig-Holstein",
       "historical": [
         {
+          "date": "2020-12-30",
+          "value": 5581
+        },
+        {
           "date": "2020-12-29",
           "value": 3579
         },
@@ -318,6 +378,10 @@
     {
       "id": "Thüringen",
       "historical": [
+        {
+          "date": "2020-12-30",
+          "value": 810
+        },
         {
           "date": "2020-12-29",
           "value": 672
@@ -342,6 +406,10 @@
       "id": "bis 20",
       "historical": [
         {
+          "date": "2020-12-30",
+          "value": null
+        },
+        {
           "date": "2020-12-29",
           "value": null
         },
@@ -362,6 +430,10 @@
     {
       "id": "20 bis 40",
       "historical": [
+        {
+          "date": "2020-12-30",
+          "value": null
+        },
         {
           "date": "2020-12-29",
           "value": null
@@ -384,6 +456,10 @@
       "id": "40 bis 60",
       "historical": [
         {
+          "date": "2020-12-30",
+          "value": null
+        },
+        {
           "date": "2020-12-29",
           "value": null
         },
@@ -405,6 +481,10 @@
       "id": "60 bis 80",
       "historical": [
         {
+          "date": "2020-12-30",
+          "value": null
+        },
+        {
           "date": "2020-12-29",
           "value": null
         },
@@ -425,6 +505,10 @@
     {
       "id": "ab 80",
       "historical": [
+        {
+          "date": "2020-12-30",
+          "value": null
+        },
         {
           "date": "2020-12-29",
           "value": null
@@ -449,6 +533,10 @@
       "id": "30.12.2020, 11 Uhr",
       "historical": [
         {
+          "date": "2020-12-30",
+          "value": null
+        },
+        {
           "date": "2020-12-29",
           "value": null
         },
@@ -468,5 +556,5 @@
     }
   ],
   "messages": [],
-  "lastUpdate": "2020-12-30T12:16:20+01:00"
+  "lastUpdate": "2020-12-31T12:08:19+01:00"
 }
